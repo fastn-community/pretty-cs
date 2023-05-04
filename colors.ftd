@@ -1,15 +1,15 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: #faebd7
-dark: #240002
+light: #fdfdfd
+dark: #fffcfc
 
 -- ftd.color step-1-:
-light: #e3bc81
-dark: #550605
+light: #ddf3f0
+dark: #f2f9f8
 
 -- ftd.color step-2-:
-light: #faad7b
-dark: #3e0e11
+light: #5e5e5e
+dark: #000000
 
 -- ftd.color overlay-:
 light: rgba(0, 0, 0, 0.8)
@@ -27,20 +27,20 @@ overlay: $overlay-
 code: $code-
 
 -- ftd.color border-:
-light: #222222
-dark: #FFFFFF
+light: #babfbe
+dark: #d4e9e6
 
 -- ftd.color border-strong-:
 light: #D9D9D9
 dark: #3e0306
 
 -- ftd.color text-:
-light: #707070
-dark: #D9D9D9
+light: #003a31
+dark: #21413c
 
 -- ftd.color text-strong-:
-light: #333333
-dark: #FFFFFF
+light: #1bac91
+dark: #21413c
 
 -- ftd.color shadow-:
 light: #6f0100
@@ -51,20 +51,20 @@ light: #393939
 dark: #393939
 
 -- ftd.color cta-primary-base-:
-light: #a53006
-dark: #a53006
+light: #0b8871
+dark: #1bac91
 
 -- ftd.color cta-primary-hover-:
-light: #8c2702
-dark: #8c2702
+light: #09957a
+dark: #22d8b6
 
 -- ftd.color cta-primary-pressed-:
 light: #611c03
 dark: #611c03
 
 -- ftd.color cta-primary-disabled-:
-light: #faad7b
-dark: #faad7b
+light: #FFFFFF
+dark: #FFFFFF
 
 -- ftd.color cta-primary-focused-:
 light: #611c03
@@ -75,12 +75,12 @@ light: #a53006
 dark: #a53006
 
 -- ftd.color cta-primary-text-:
-light: #feffff
-dark: #feffff
+light: #022a23
+dark: #022a23
 
 -- ftd.color cta-primary-text-disabled-:
-light: #65b693
-dark: #65b693
+light: #000000
+dark: #000000
 
 -- ftd.color cta-primary-border-disabled-:
 light: #65b693
@@ -239,8 +239,8 @@ text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled-
 
 -- ftd.color accent-primary-:
-light: #a53006
-dark: #a53006
+light: #005b54
+dark: #46beb4
 
 -- ftd.color accent-secondary-:
 light: #EF8435
@@ -304,8 +304,8 @@ dark: #7EACF1
 
 -- ftd.btb info-btb-:
 base: $info-base-
-text: $info-base-
-border: $info-base-
+text: $info-text-
+border: $info-border-
 
 -- ftd.color warning-base-:
 light: #FDF7F1
@@ -325,12 +325,12 @@ text: $warning-text-
 border: $warning-border-
 
 -- ftd.color custom-one-:
-light: #ed753a
-dark: #ed753a
+light: #3c4e4c
+dark: #0c1817
 
 -- ftd.color custom-two-:
-light: #f3db5f
-dark: #f3db5f
+light: #effffc
+dark: #f2f9f8
 
 -- ftd.color custom-three-:
 light: #8fdcf8
