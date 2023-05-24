@@ -4,8 +4,8 @@ light: #fdfdfd
 dark: #fffcfc
 
 -- ftd.color step-1-:
-light: #ddf3f0
-dark: #f2f9f8
+light: #f0f4f4
+dark: #FFFFFF
 
 -- ftd.color step-2-:
 light: #5e5e5e
