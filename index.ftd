@@ -21,7 +21,7 @@ name: default-colors
 -- cd.package: THEME
 name: `pretty-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `pretty-cs` Color Scheme
+subtitle: pretty-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
