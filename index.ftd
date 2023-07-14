@@ -24,6 +24,9 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: pretty-cs: color scheme
 colors: $colors-data
 types: $typo.types
+document-title: Pretty CS: fastn color scheme package
+document-description: Pretty CS: fastn color scheme package
+document-image: https://fastn.com/-/fastn.com/images/featured/cs/pretty-cs-dark.png
 
 -- cp.components-pallete:
 
