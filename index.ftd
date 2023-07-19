@@ -24,8 +24,8 @@ logo: $assets.files.static.fastn-logo.svg
 subtitle: pretty-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Pretty CS: fastn color scheme package
-document-description: Pretty CS: fastn color scheme package
+document-title: Lotion and Jungle Green-themed Colour Scheme for Web Design | fastn Pretty CS
+document-description: Discover the Pretty Colour Scheme by fastn, featuring beautiful shades of lotion and jungle green for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/pretty-cs-dark.png
 
 -- cp.components-pallete:
